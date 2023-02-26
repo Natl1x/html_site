@@ -1,0 +1,169 @@
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  border-radius: 25px;
+  filter: drop-shadow(0px 0px 100px rgba(0, 110, 255, 0.719));
+  padding: 200px 200px 200px 200px;
+  line-height: 80%;
+}
+
+.backround {
+  background-color: #ffffff;
+  width: 877px;
+  height: 1319px;
+  border: 2px groove #0c0c0c;
+  border-left-color: white;
+  line-height: 80%;
+}
+
+.sidebar {
+  background-color: #bad3fd;
+  border-radius: 101px 0px 0px 0px;
+
+  width: 370px;
+  height: 1319px;
+  border: 2px groove #0c0c0c;
+  line-height: 80%;
+}
+
+.fon {
+  background-color: #e5e5e5;
+  font-family: "Montserrat";
+  line-height: 80%;
+}
+
+.profesion {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 80%;
+}
+
+.grey {
+  color: #a8a8a8;
+  font-weight: 400;
+}
+
+.about-me {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  /* identical to box height */
+  line-height: 80%;
+
+  color: #a8a8a8;
+}
+
+.main-kontent {
+  padding: 43px 322px 64px 30px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  line-height: 80%;
+}
+
+.pon {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  line-height: 80%;
+}
+
+.projects {
+  padding: 0px 265px 51px 30px;
+  line-height: 80%;
+}
+
+.work {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  line-height: 80%;
+}
+
+.work-exp {
+  padding: 0px 265px 10px 30px;
+  line-height: 80%;
+}
+
+.educ {
+  padding: 0px 492px 102px 30px;
+  line-height: 80%;
+}
+
+.foto {
+  padding: 0px 0px 51px 0px;
+  filter: drop-shadow(1px 20px 10px rgba(55, 120, 204, 0.534));
+  border-radius: 100px 0px;
+  line-height: 80%;
+}
+
+.item1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  /* or 171% */
+
+  color: #000000;
+}
+
+.contact {
+  padding: 0px 139px 47px 40px;
+  filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.25));
+
+  line-height: 24px;
+}
+
+.t-skills {
+  padding: 0px 209px 44px 40px;
+  filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.25));
+
+  line-height: 24px;
+}
+
+.s-skills {
+  padding: 0px 217px 366px 40px;
+  filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.25));
+
+  line-height: 24px;
+}
+
+.topper {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  line-height: 80%;
+}
+
+.pppp {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0 0 0 25px;
+
+  color: #595959;
+}
+
+.ppp {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.pp {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.blue {
+  color: #6d9bf5;
+}
+
+.skills {
+    padding: 0 0 0 21px;
+}
